@@ -1,7 +1,7 @@
 
 
-DECLARE @srcdbname VARCHAR(1000) = 'Retailbase'
-DECLARE @newdbname VARCHAR(1000) = 'RetailJustin'
+DECLARE @srcdbname VARCHAR(1000) = ''
+DECLARE @newdbname VARCHAR(1000) = ''
 
 
 
